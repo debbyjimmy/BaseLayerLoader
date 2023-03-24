@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development for geospatial applications. Have been in the geospatial industry for 5 years now.
 - 🌱 I started as a G.I.S Analyst, while practicing and developing some G.I.S programming skills.
 - I'm currently focusing on geospatial application developement, in order to bridge the gap of not having a software development background, I’m currently enrolled in the 12 months software developement program from Microverse.
-- 💞️ I’m looking to collaborate on geospatial application projects
+- 💞️ I’m looking to collaborate on web mapping application projects
 - 📫 You can rerach me in different ways, but a visit to my portfolio site comes a bit more handy and will reveal more about me. (www.debbyjimmy.com)
 
 <!---
