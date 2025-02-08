@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [Your Name]  
-## 🚀 Big Data Engineer | Cloud Data Architect | Scalable Data Solutions  
+## 🚀 Data Engineer | Cloud Data Architect | Scalable Data Solutions  
 
-I specialize in **Big Data Management**, focusing on **scalable data architectures, cloud-based ETL pipelines, and real-time data processing**. With experience in **distributed computing, data lakes, and cloud platforms**, I build efficient systems that handle **terabytes of structured and unstructured data**.  
+As a Data Expert, with experience in the entire data life cycle, from data collection to storage, analysis, visualization, and prediction. I specialize in **Big Data Management**, focusing on **scalable data architectures, cloud-based ETL pipelines, and real-time data processing**. With experience in **distributed computing, data lakes, and cloud platforms**, I build efficient systems that handle **terabytes of structured and unstructured data**.  **I have experience working with large geographic data as well.**
 
 ---
 
