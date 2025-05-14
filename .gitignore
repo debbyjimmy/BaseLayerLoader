@@ -1,0 +1,20 @@
+# Ignore Visual Studio build folders
+bin/
+obj/
+.vs/
+
+# Ignore temporary files
+*.user
+*.suo
+*.tmp
+*.log
+
+# Ignore NuGet packages folder if using packages.config
+packages/
+
+# Ignore user secrets (if ever used)
+secrets.json
+
+# Ignore system files
+.DS_Store
+Thumbs.db
