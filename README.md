@@ -8,7 +8,7 @@
 
 - Load pre-defined base layers in one click
 - Store your preferred base layer paths
-- Supports `.lyrx`, imagery, tile services, etc.
+- Supports `.lyrx`, .shp, imagery, tile services, etc.
 - No coding required
 - Built for ArcGIS Pro
 
