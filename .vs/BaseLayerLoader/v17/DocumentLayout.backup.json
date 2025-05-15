@@ -1,38 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jabah\\Documents\\GitHub\\debbyjimmy\\",
+  "WorkspaceRootPath": "C:\\BaseLayerLoader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{723A46D6-A109-4743-9EAC-DBE0067642F6}|BaseLayerLoader.csproj|c:\\users\\jabah\\documents\\github\\debbyjimmy\\config.daml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{723A46D6-A109-4743-9EAC-DBE0067642F6}|BaseLayerLoader.csproj|solutionrelative:config.daml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{7192D196-E6E3-482E-A921-091A6A50A881}|BaseLayerLoader.csproj|c:\\baselayerloader\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7192D196-E6E3-482E-A921-091A6A50A881}|BaseLayerLoader.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{723A46D6-A109-4743-9EAC-DBE0067642F6}|BaseLayerLoader.csproj|c:\\users\\jabah\\documents\\github\\debbyjimmy\\baselayerloader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{723A46D6-A109-4743-9EAC-DBE0067642F6}|BaseLayerLoader.csproj|solutionrelative:baselayerloader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7192D196-E6E3-482E-A921-091A6A50A881}|BaseLayerLoader.csproj|c:\\baselayerloader\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{7192D196-E6E3-482E-A921-091A6A50A881}|BaseLayerLoader.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{723A46D6-A109-4743-9EAC-DBE0067642F6}|BaseLayerLoader.csproj|c:\\users\\jabah\\documents\\github\\debbyjimmy\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{723A46D6-A109-4743-9EAC-DBE0067642F6}|BaseLayerLoader.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{7192D196-E6E3-482E-A921-091A6A50A881}|BaseLayerLoader.csproj|c:\\baselayerloader\\config.daml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7192D196-E6E3-482E-A921-091A6A50A881}|BaseLayerLoader.csproj|solutionrelative:config.daml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{723A46D6-A109-4743-9EAC-DBE0067642F6}|BaseLayerLoader.csproj|c:\\users\\jabah\\documents\\github\\debbyjimmy\\models\\baselayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{723A46D6-A109-4743-9EAC-DBE0067642F6}|BaseLayerLoader.csproj|solutionrelative:models\\baselayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7192D196-E6E3-482E-A921-091A6A50A881}|BaseLayerLoader.csproj|c:\\baselayerloader\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7192D196-E6E3-482E-A921-091A6A50A881}|BaseLayerLoader.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{723A46D6-A109-4743-9EAC-DBE0067642F6}|BaseLayerLoader.csproj|c:\\users\\jabah\\documents\\github\\debbyjimmy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{723A46D6-A109-4743-9EAC-DBE0067642F6}|BaseLayerLoader.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{723A46D6-A109-4743-9EAC-DBE0067642F6}|BaseLayerLoader.csproj|c:\\users\\jabah\\documents\\github\\debbyjimmy\\loadbaselayer2button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{723A46D6-A109-4743-9EAC-DBE0067642F6}|BaseLayerLoader.csproj|solutionrelative:loadbaselayer2button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{723A46D6-A109-4743-9EAC-DBE0067642F6}|BaseLayerLoader.csproj|c:\\users\\jabah\\documents\\github\\debbyjimmy\\loadbaselayer3button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{723A46D6-A109-4743-9EAC-DBE0067642F6}|BaseLayerLoader.csproj|solutionrelative:loadbaselayer3button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{723A46D6-A109-4743-9EAC-DBE0067642F6}|BaseLayerLoader.csproj|c:\\users\\jabah\\documents\\github\\debbyjimmy\\docs\\setupguide.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{723A46D6-A109-4743-9EAC-DBE0067642F6}|BaseLayerLoader.csproj|solutionrelative:docs\\setupguide.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{7192D196-E6E3-482E-A921-091A6A50A881}|BaseLayerLoader.csproj|c:\\baselayerloader\\baselayerloader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7192D196-E6E3-482E-A921-091A6A50A881}|BaseLayerLoader.csproj|solutionrelative:baselayerloader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,69 +30,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\jabah\\Documents\\GitHub\\debbyjimmy\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\jabah\\Documents\\GitHub\\debbyjimmy\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-05-14T11:00:16.087Z",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\BaseLayerLoader\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\BaseLayerLoader\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T06:11:55.11Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoadBaseLayer2Button.cs",
-              "DocumentMoniker": "C:\\Users\\jabah\\Documents\\GitHub\\debbyjimmy\\LoadBaseLayer2Button.cs",
-              "RelativeDocumentMoniker": "LoadBaseLayer2Button.cs",
-              "ToolTip": "C:\\Users\\jabah\\Documents\\GitHub\\debbyjimmy\\LoadBaseLayer2Button.cs",
-              "RelativeToolTip": "LoadBaseLayer2Button.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T13:03:48.16Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BaseLayerLoader.csproj",
-              "DocumentMoniker": "C:\\Users\\jabah\\Documents\\GitHub\\debbyjimmy\\BaseLayerLoader.csproj",
-              "RelativeDocumentMoniker": "BaseLayerLoader.csproj",
-              "ToolTip": "C:\\Users\\jabah\\Documents\\GitHub\\debbyjimmy\\BaseLayerLoader.csproj",
-              "RelativeToolTip": "BaseLayerLoader.csproj",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAG8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T11:50:20.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\jabah\\Documents\\GitHub\\debbyjimmy\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\jabah\\Documents\\GitHub\\debbyjimmy\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-14T16:45:32.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Config.daml",
-              "DocumentMoniker": "C:\\Users\\jabah\\Documents\\GitHub\\debbyjimmy\\Config.daml",
-              "RelativeDocumentMoniker": "Config.daml",
-              "ToolTip": "C:\\Users\\jabah\\Documents\\GitHub\\debbyjimmy\\Config.daml",
-              "RelativeToolTip": "Config.daml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-12T10:48:07.375Z",
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\BaseLayerLoader\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\BaseLayerLoader\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-15T06:06:49.658Z",
               "EditorCaption": ""
             },
             {
@@ -113,39 +64,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoadBaseLayer3Button.cs",
-              "DocumentMoniker": "C:\\Users\\jabah\\Documents\\GitHub\\debbyjimmy\\LoadBaseLayer3Button.cs",
-              "RelativeDocumentMoniker": "LoadBaseLayer3Button.cs",
-              "ToolTip": "C:\\Users\\jabah\\Documents\\GitHub\\debbyjimmy\\LoadBaseLayer3Button.cs",
-              "RelativeToolTip": "LoadBaseLayer3Button.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T13:03:59.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SetupGuide.txt",
-              "DocumentMoniker": "C:\\Users\\jabah\\Documents\\GitHub\\debbyjimmy\\Docs\\SetupGuide.txt",
-              "RelativeDocumentMoniker": "Docs\\SetupGuide.txt",
-              "ToolTip": "C:\\Users\\jabah\\Documents\\GitHub\\debbyjimmy\\Docs\\SetupGuide.txt",
-              "RelativeToolTip": "Docs\\SetupGuide.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-14T10:54:59.745Z"
+              "DocumentIndex": 2,
+              "Title": "Config.daml",
+              "DocumentMoniker": "C:\\BaseLayerLoader\\Config.daml",
+              "RelativeDocumentMoniker": "Config.daml",
+              "ToolTip": "C:\\BaseLayerLoader\\Config.daml",
+              "RelativeToolTip": "Config.daml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T05:34:53.621Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BaseLayer.cs",
-              "DocumentMoniker": "C:\\Users\\jabah\\Documents\\GitHub\\debbyjimmy\\Models\\BaseLayer.cs",
-              "RelativeDocumentMoniker": "Models\\BaseLayer.cs",
-              "ToolTip": "C:\\Users\\jabah\\Documents\\GitHub\\debbyjimmy\\Models\\BaseLayer.cs",
-              "RelativeToolTip": "Models\\BaseLayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T23:38:50.472Z"
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\BaseLayerLoader\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\BaseLayerLoader\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T05:53:51.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseLayerLoader",
+              "DocumentMoniker": "C:\\BaseLayerLoader\\BaseLayerLoader.csproj",
+              "RelativeDocumentMoniker": "BaseLayerLoader.csproj",
+              "ToolTip": "C:\\BaseLayerLoader\\BaseLayerLoader.csproj",
+              "RelativeToolTip": "BaseLayerLoader.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T05:51:24.257Z",
+              "EditorCaption": ""
             }
           ]
         }

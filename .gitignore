@@ -1,0 +1,20 @@
+﻿# Ignore build output folders
+bin/
+obj/
+Debug/
+Release/
+
+# Ignore Visual Studio user files
+*.user
+*.suo
+
+# Ignore compiled binaries or packages
+*.dll
+*.exe
+*.pdb
+*.vsix
+*.esriAddInX
+
+# Ignore images or resources you don’t want in git (optional)
+# Images/
+.vs/

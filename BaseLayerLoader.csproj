@@ -14,9 +14,6 @@
     <Page Remove="DarkImages\**" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Properties\launchSettings.json" />
-  </ItemGroup>
-  <ItemGroup>
     <Reference Include="ArcGIS.Desktop.Framework">
       <HintPath>C:\Program Files\ArcGIS\Pro\bin\ArcGIS.Desktop.Framework.dll</HintPath>
       <CopyLocal>False</CopyLocal>
@@ -94,6 +91,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Properties\launchSettings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>launchSettings.json</DependentUpon>
+    </Compile>
     <Compile Update="Properties\Settings.Designer.cs">
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <AutoGen>True</AutoGen>
@@ -101,6 +103,10 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Update="Properties\launchSettings.json">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>launchSettings.Designer.cs</LastGenOutput>
+    </None>
     <None Update="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

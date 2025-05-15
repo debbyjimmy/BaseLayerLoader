@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
+{
+  "profiles": {
+    "BaseLayerLoader": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\ArcGIS\\Pro\\bin\\ArcGISPro.exe",
+      "commandLineArgs": "",
+      "workingDirectory": "C:\\Program Files\\ArcGIS\\Pro\\bin",
+      "environmentVariables": {
+        "ProAddin": "true"
+      }
+    }
+  }
+}
+
+</SettingsFile>
