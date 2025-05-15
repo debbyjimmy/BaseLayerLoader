@@ -33,6 +33,7 @@ As a Data Expert, with experience in the entire data life cycle, from data colle
 🔹 Stored & analyzed data in **AWS Redshift & S3**  
 🔹 Reduced latency by **60%** using efficient batch processing  
 
+<<<<<<< Updated upstream
 🔗 **[View Project](#)**  
 
 ### **2️⃣ Scalable ETL Pipeline for 10TB+ Data**
@@ -60,3 +61,49 @@ As a Data Expert, with experience in the entire data life cycle, from data colle
 debbyjimmy/debbyjimmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+=======
+1. Download the latest `.esriAddInX` from the [Releases]  section of this repository.
+2. Double-click the file to install it into ArcGIS Pro.
+3. Launch ArcGIS Pro → Open a Project →Addin appears as a custom tab called 'Base Layers'.
+---
+
+---
+
+## 📽️ Demo
+
+Watch the video walkthrough here: [YouTube Demo Link](https://youtube.com/yourvideo)
+
+---
+
+## 📂 Project Structure
+
+- `Addin/` – Compiled Add-in for distribution
+- `src/` – Source code (C# + ArcGIS Pro SDK)
+- `Docs/` – Documentation and screenshots
+
+---
+
+## 🧠 Tech Stack
+
+- C#
+- ArcGIS Pro SDK
+- .NET Framework
+
+---
+
+## 📃 License
+
+This project is licensed under the MIT License.
+
+---
+
+## ✨ Contributing
+
+Found a bug or want to request a feature? [Open an issue](https://github.com/GeoRad-Inc/BaseLayerLoader/issues) or fork the repo and submit a pull request.
+
+---
+
+## 🙌 Acknowledgements
+
+This Add-in was created by [Your Name] at [GeoRad](https://yourwebsite.com), as part of our mission to advance geospatial automation through open tools and community learning.
+>>>>>>> Stashed changes
